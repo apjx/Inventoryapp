@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="empty_textview">No product in the inventory.</string>
+
+    <string name="add_product_name">Product name</string>
+    <string name="hint_product_name">Ex: Red apples</string>
+
+    <string name="add_product_price">Product price</string>
+    <string name="hint_product_price">Ex: 28</string>
+
+    <string name="add_product_quantity">Quantity</string>
+
+    <string name="add_product_supplier">Supplier</string>
+    <string name="hint_product_supplier">Ex: SARL Hervé</string>
+
+    <string name="add_product_email">Supplier email</string>
+    <string name="hint_product_email">supplier@email.com</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="add_product_activity_title">Add a product</string>
+
+    <string name="insert_product_failed">Insert product failed</string>
+    <string name="insert_product_successful">Product inserted</string>
+
+    <string name="update_product_failed">Update product failed</string>
+    <string name="update_product_successful">Product updated</string>
+
+    <string name="delete_product_failed">Delete product failed</string>
+    <string name="delete_product_successful">Product deleted</string>
+
+</resources>
